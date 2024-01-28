@@ -28,7 +28,5 @@ a nooooooooob
 
 Bilibili@AlexBlock
 
-YouTube@ItsAlexBlock
-
 Web:[AlexBlock.org](AlexBlock.org)
 
