@@ -4,21 +4,26 @@
 
 24歲，是學生。
 
-土生土長的深圳銀
+土生土長的深圳壬
 
 喜歡玩游戲和敲代碼
 
 目前正在學習ing
 
 ## 我會些什麽？
-算是入门的python
-卡住的java
-正在学习Vue.js
-a nooooooooob
+Python
+Lua
+JavaScript(WPI)
+Vue.js(WPI)
 
 ## 找到我：
 
 Bilibili@AlexBlock
-
 Web:[AlexBlock.org](AlexBlock.org)
+Blog:[Blog.AlexBlock.org](Blog.AlexBlock.org)
 
+# 愛好
+敲代碼
+Minecraft
+Human Fall Flat
+And More..
