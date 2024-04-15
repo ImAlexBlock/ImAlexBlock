@@ -15,10 +15,11 @@ Python
 
 Lua
 
-JavaScript(WPI)
+JavaScript(noob)
 
-Vue.js(WPI)
+Vue.js(noob)
 
+Java(learning)
 
 ## 找到我：
 
