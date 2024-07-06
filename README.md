@@ -11,21 +11,11 @@
 目前正在學習ing
 
 ## 我會些什麽？
-Python
-
-Lua
-
-JavaScript(noob)
-
-Vue.js(noob)
-
-Java(learning)
+我什么都不会，纯fw😭
 
 ## 找到我：
 
 Bilibili@AlexBlock
-
-Web:[AlexBlock.org](AlexBlock.org)
 
 Blog:[Blog.AlexBlock.org](Blog.AlexBlock.org)
 
@@ -33,7 +23,5 @@ Blog:[Blog.AlexBlock.org](Blog.AlexBlock.org)
 敲代碼
 
 Minecraft
-
-Human Fall Flat
 
 And More..
