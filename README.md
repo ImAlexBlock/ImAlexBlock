@@ -17,7 +17,7 @@
 
 Bilibili@AlexBlock
 
-Blog:[Blog.AlexBlock.org](Blog.AlexBlock.org)
+Website:[AlexBlock.org](AlexBlock.org)
 
 # 愛好
 敲代碼
