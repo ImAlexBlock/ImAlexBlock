@@ -1,27 +1,20 @@
-# Welcome to my Profile!
+# 是宝蓝 🐺
 
-## 我是誰？
+全沾工程师
 
-24歲，是學生。
+python熟练 go,java,js,ts沾点
 
-土生土長的深圳壬
+<details>
+  
+- 起名困难户
+- 拼错单词爱好者
 
-喜歡玩游戲和敲代碼
+| 可用语言   | 熟练度 |
+|  ------  | ------ |
+| 中文      | ✅     |
+| English  |会说|
 
-目前正在學習ing
+ft.Takaranoao
+</details>
 
-## 我會些什麽？
-我什么都不会，纯fw😭
 
-## 找到我：
-
-Bilibili@AlexBlock
-
-Website:[https://AlexBlock.org](https://AlexBlock.org)
-
-# 愛好
-敲代碼
-
-Minecraft
-
-And More..
