@@ -1,20 +1,34 @@
-# AlexBlock 亚历山大方块
+# Hi, I'm AlexBlock! 🍍
 
-全沾工程师
+Welcome to my GitHub profile!
 
-python熟练 go,java,js,ts沾点
+## 👨‍🎓 About Me
+- Student
+- emoing
 
-<details>
-  
-- 起名困难户
-- 拼错单词爱好者
+## 🌟 Featured Project
+- [**FreeCookie**](https://cookie.alexblock.org) — A Free 4399Games Account Getter()
 
-| 可用语言   | 熟练度 |
-|  ------  | ------ |
-| 中文      | ✅     |
-| English  |会说|
+## 🚀 Skills
+- Python 🐍
+- Java (ALL SKIDDDD) ☕
 
-ft.Takaranoao
-</details>
+## 🌴 Connect with Me
+- 🌐 [alexblock.org](https://alexblock.org)
+- 🐙 [GitHub](https://github.com/ImAlexBlock)
 
+## 🏝️ Fun Fact
+ALLLLLL PINEAPPPPPPPPLE🍍🍍🍍
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImAlexBlock&show_icons=true" alt="ImAlexBlock's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlexBlock&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+> “我菠萝你菠萝” 🍍
