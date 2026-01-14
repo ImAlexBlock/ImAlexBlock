@@ -23,15 +23,6 @@ ALLLLLL PINEAPPPPPPPPLE🍍🍍🍍
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImAlexBlock&show_icons=true" alt="ImAlexBlock's GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlexBlock&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 > “我菠萝你菠萝” 🍍
 
 tEAM piNeAPple https://github.com/PineappleMC
